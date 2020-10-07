@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="demo" />
+              <option name="title_text" value="demo1.1" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1302,6 +1302,7 @@
             <slidelink slideid="_player.6bMrAyFudT6.68dlOO9a7KS" displaytext="קונספט" expand="false" type="slide" />
             <slidelink slideid="_player.6bMrAyFudT6.6STciSVKfc8" displaytext="קומפוזציה" expand="false" type="slide" />
             <slidelink slideid="_player.6bMrAyFudT6.6gD3wIm2hc4" displaytext="קהל יעד" expand="false" type="slide" />
+            <slidelink slideid="_player.6bMrAyFudT6.60GRZMijnbY" displaytext="טיפוגרפיה" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
